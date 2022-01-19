@@ -1,0 +1,9 @@
+#vscode
+.vscode
+
+#command
+*.cmd
+
+#temp
+/OLD
+/RYCOM-main
